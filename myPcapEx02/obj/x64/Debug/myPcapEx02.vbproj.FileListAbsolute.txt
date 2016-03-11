@@ -19,3 +19,4 @@ E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\x64\Debug\myPcapEx02.vbproj.GenerateRe
 E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\x64\Debug\myPcapEx02.exe
 E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\x64\Debug\myPcapEx02.xml
 E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\x64\Debug\myPcapEx02.pdb
+E:\my.source\VB.Net\myPcap\myPcapEx02\obj\x64\Debug\myPcapEx02.vbprojResolveAssemblyReference.cache
