@@ -1,0 +1,9 @@
+E:\my.Source\VB.Net\myPcap\myPcapEx02\bin\Debug\myPcapEx02.exe.config
+E:\my.Source\VB.Net\myPcap\myPcapEx02\bin\Debug\myPcapEx02.exe
+E:\my.Source\VB.Net\myPcap\myPcapEx02\bin\Debug\myPcapEx02.pdb
+E:\my.Source\VB.Net\myPcap\myPcapEx02\bin\Debug\myPcapEx02.xml
+E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\Debug\myPcapEx02.Resources.resources
+E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\Debug\myPcapEx02.vbproj.GenerateResource.Cache
+E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\Debug\myPcapEx02.exe
+E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\Debug\myPcapEx02.xml
+E:\my.Source\VB.Net\myPcap\myPcapEx02\obj\Debug\myPcapEx02.pdb
