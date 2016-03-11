@@ -13,6 +13,6 @@ E:\my.Source\VB.Net\myPcap\vcTester\bin\x64\Debug\PcapDotNet.Core.Extensions.pdb
 E:\my.Source\VB.Net\myPcap\vcTester\bin\x64\Debug\PcapDotNet.Core.Extensions.xml
 E:\my.Source\VB.Net\myPcap\vcTester\bin\x64\Debug\PcapDotNet.Packets.pdb
 E:\my.Source\VB.Net\myPcap\vcTester\bin\x64\Debug\PcapDotNet.Packets.xml
-E:\my.Source\VB.Net\myPcap\vcTester\obj\x64\Debug\vcTester.csprojResolveAssemblyReference.cache
 E:\my.Source\VB.Net\myPcap\vcTester\obj\x64\Debug\vcTester.exe
 E:\my.Source\VB.Net\myPcap\vcTester\obj\x64\Debug\vcTester.pdb
+E:\my.source\VB.Net\myPcap\vcTester\obj\x64\Debug\vcTester.csprojResolveAssemblyReference.cache
